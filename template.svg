@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="80px"
+   height="80px"
+   viewBox="0 0 80 80"
+   enable-background="new 0 0 80 80"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="ipaddr.svg"
+   inkscape:export-filename="/home/thp/ipaddr.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"><metadata
+   id="metadata117"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs115" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1280"
+   inkscape:window-height="746"
+   id="namedview113"
+   showgrid="false"
+   inkscape:zoom="2.8284271"
+   inkscape:cx="34.61498"
+   inkscape:cy="58.320486"
+   inkscape:window-x="0"
+   inkscape:window-y="26"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg2" />
+<g
+   id="DO_NOT_EDIT_-_BOUNDING_BOX">
+	<rect
+   id="BOUNDING_BOX"
+   fill="none"
+   width="80"
+   height="80" />
+</g>
+<g
+   id="WHITE_x2F_GREY_BACKGROUNDS"
+   display="none">
+	<path
+   id="GREY4_2_"
+   display="inline"
+   fill="#515151"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1   S79,11.106,79,40z" />
+	<path
+   id="GREY3_2_"
+   fill="#7C7C7C"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+	<path
+   id="GREY2_2_"
+   fill="#9E9E9E"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+	<path
+   id="GREY1_2_"
+   fill="#A3A8AB"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+	<linearGradient
+   id="WHITE_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="39.9995"
+   y1="-5.0801"
+   x2="39.9995"
+   y2="75.0701">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop12" />
+		<stop
+   offset="0.2886"
+   style="stop-color:#FCFCFC"
+   id="stop14" />
+		<stop
+   offset="0.5203"
+   style="stop-color:#F2F2F2"
+   id="stop16" />
+		<stop
+   offset="0.7322"
+   style="stop-color:#E1E1E1"
+   id="stop18" />
+		<stop
+   offset="0.9313"
+   style="stop-color:#C9C9C9"
+   id="stop20" />
+		<stop
+   offset="1"
+   style="stop-color:#BFBFBF"
+   id="stop22" />
+	</linearGradient>
+	<path
+   id="WHITE_2_"
+   fill="url(#WHITE_1_)"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1   S79,11.106,79,40z" />
+</g>
+<g
+   id="ORANGE_x2F_YELLOW_BACKGROUNDS">
+	<path
+   id="ORANGE3_1_"
+   fill="#E8631F"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z"
+   style="fill:#081c1f;fill-opacity:1" />
+	<path
+   id="ORANGE2_1_"
+   display="none"
+   fill="#F78500"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1   S79,11.106,79,40z" />
+	<path
+   id="ORANGE1_1_"
+   display="none"
+   fill="#E69600"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1   S79,11.106,79,40z" />
+	<path
+   id="YELLOW1_1_"
+   display="none"
+   fill="#F7ED76"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1   S79,11.106,79,40z" />
+</g>
+<g
+   id="VIOLET_x2F_PINK_BACKGROUNDS"
+   display="none">
+	<path
+   id="PINK2_2_"
+   display="inline"
+   fill="#DE11A6"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1   S79,11.106,79,40z" />
+	<path
+   id="PINK1_2_"
+   fill="#C20FC1"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+	<path
+   id="VIOLET2_2_"
+   fill="#9501C5"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+	<path
+   id="VIOLET1_2_"
+   fill="#6401BA"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+</g>
+<g
+   id="BLUE_BACKGROUNDS"
+   display="none">
+	<path
+   id="BLUE4_2_"
+   display="inline"
+   fill="#124191"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1   S79,11.106,79,40z" />
+	<path
+   id="BLUE3_1_"
+   fill="#2D65C2"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+	<path
+   id="BLUE2_2_"
+   fill="#0088AF"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+	<path
+   id="BLUE1_2_"
+   fill="#047DC9"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+</g>
+<g
+   id="GREEN_BACKGROUNDS"
+   display="none">
+	<path
+   id="GREEN3_1_"
+   display="inline"
+   fill="#247800"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1   S79,11.106,79,40z" />
+	<path
+   id="GREEN2_1_"
+   fill="#498800"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+	<path
+   id="GREEN1_2_"
+   fill="#6EB600"
+   d="M79,40c0,28.893-10.105,39-39,39S1,68.893,1,40C1,11.106,11.105,1,40,1S79,11.106,79,40z" />
+</g>
+<g
+   id="DO_NOT_EDIT_-_HIGHLIGHT">
+	<defs
+   id="defs45">
+		<filter
+   id="Adobe_OpacityMaskFilter"
+   filterUnits="userSpaceOnUse"
+   x="1.023"
+   y="1"
+   width="77.953"
+   height="78">
+			<feFlood
+   result="back"
+   id="feFlood48"
+   style="flood-color:white;flood-opacity:1" />
+			<feBlend
+   in="SourceGraphic"
+   in2="back"
+   mode="normal"
+   id="feBlend50" />
+		</filter>
+	</defs>
+	<mask
+   maskUnits="userSpaceOnUse"
+   x="1.023"
+   y="1"
+   width="77.953"
+   height="78"
+   id="OVERLAY_2_">
+		<g
+   id="g53"
+   filter="url(#Adobe_OpacityMaskFilter)">
+			<defs
+   id="defs55">
+				<filter
+   id="Adobe_OpacityMaskFilter_1_"
+   filterUnits="userSpaceOnUse"
+   x="1.023"
+   y="1"
+   width="77.953"
+   height="78">
+					<feFlood
+   result="back"
+   id="feFlood58"
+   style="flood-color:white;flood-opacity:1" />
+					<feBlend
+   in="SourceGraphic"
+   in2="back"
+   mode="normal"
+   id="feBlend60" />
+				</filter>
+			</defs>
+			<mask
+   maskUnits="userSpaceOnUse"
+   x="1.023"
+   y="1"
+   width="77.953"
+   height="78"
+   id="mask62">
+				<g
+   id="g64"
+   filter="url(#Adobe_OpacityMaskFilter_1_)">
+				</g>
+			</mask>
+			<linearGradient
+   id="OVERLAY_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="39.9995"
+   y1="5.1816"
+   x2="39.9995"
+   y2="58.8019">
+				<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop67" />
+				<stop
+   offset="1"
+   style="stop-color:#D6D6D6"
+   id="stop69" />
+			</linearGradient>
+			<path
+   id="OVERLAY_1_"
+   mask="url(#OVERLAY_2_)"
+   d="M78.977,40c0,28.893-10.1,39-38.977,39     S1.023,68.893,1.023,40c0-28.894,10.1-39,38.977-39S78.977,11.106,78.977,40z"
+   fill="url(#OVERLAY_3_)" />
+		</g>
+	</mask>
+	<linearGradient
+   id="OVERLAY_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="39.9995"
+   y1="5.1816"
+   x2="39.9995"
+   y2="58.8019">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop73" />
+		<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop75" />
+	</linearGradient>
+	<path
+   id="OVERLAY"
+   d="M 78.977,40 C 78.977,68.893 68.877,79 40,79 11.123,79 1.023,68.893 1.023,40 1.023,11.106 11.123,1 40,1 68.877,1 78.977,11.106 78.977,40 z"
+   style="opacity:0.5;fill:url(#OVERLAY_4_)"
+   inkscape:connector-curvature="0" />
+	<defs
+   id="defs78">
+		<filter
+   id="Adobe_OpacityMaskFilter_2_"
+   filterUnits="userSpaceOnUse"
+   x="1"
+   y="1"
+   width="78"
+   height="78">
+			<feFlood
+   result="back"
+   id="feFlood81"
+   style="flood-color:white;flood-opacity:1" />
+			<feBlend
+   in="SourceGraphic"
+   in2="back"
+   mode="normal"
+   id="feBlend83" />
+		</filter>
+	</defs>
+	<mask
+   maskUnits="userSpaceOnUse"
+   x="1"
+   y="1"
+   width="78"
+   height="78"
+   id="HIGHLIGHT_2_">
+		<g
+   id="g86"
+   filter="url(#Adobe_OpacityMaskFilter_2_)">
+			<defs
+   id="defs88">
+				<filter
+   id="Adobe_OpacityMaskFilter_3_"
+   filterUnits="userSpaceOnUse"
+   x="1"
+   y="1"
+   width="78"
+   height="78">
+					<feFlood
+   result="back"
+   id="feFlood91"
+   style="flood-color:white;flood-opacity:1" />
+					<feBlend
+   in="SourceGraphic"
+   in2="back"
+   mode="normal"
+   id="feBlend93" />
+				</filter>
+			</defs>
+			<mask
+   maskUnits="userSpaceOnUse"
+   x="1"
+   y="1"
+   width="78"
+   height="78"
+   id="mask95">
+				<g
+   id="g97"
+   filter="url(#Adobe_OpacityMaskFilter_3_)">
+				</g>
+			</mask>
+			<linearGradient
+   id="HIGHLIGHT_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="39.9995"
+   y1="1.2471"
+   x2="39.9995"
+   y2="78.5111">
+				<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop100" />
+				<stop
+   offset="1"
+   style="stop-color:#000000"
+   id="stop102" />
+			</linearGradient>
+			<path
+   id="HIGHLIGHT_1_"
+   mask="url(#HIGHLIGHT_2_)"
+   d="M39.999,1C11.105,1,1,11.106,1,40     c0,28.893,10.105,39,38.999,39C68.896,79,79,68.893,79,40C79,11.106,68.896,1,39.999,1z M39.999,78.025     C11.57,78.025,1.976,68.43,1.976,40c0-28.429,9.595-38.024,38.023-38.024c28.43,0,38.024,9.596,38.024,38.024     C78.023,68.43,68.429,78.025,39.999,78.025z"
+   fill="url(#HIGHLIGHT_3_)" />
+		</g>
+	</mask>
+	<linearGradient
+   id="HIGHLIGHT_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="39.9995"
+   y1="1.2471"
+   x2="39.9995"
+   y2="78.5111">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop106" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop108" />
+	</linearGradient>
+	<path
+   id="HIGHLIGHT"
+   d="M39.999,1C11.105,1,1,11.106,1,40c0,28.893,10.105,39,38.999,39   C68.896,79,79,68.893,79,40C79,11.106,68.896,1,39.999,1z M39.999,78.025C11.57,78.025,1.976,68.43,1.976,40   c0-28.429,9.595-38.024,38.023-38.024c28.43,0,38.024,9.596,38.024,38.024C78.023,68.43,68.429,78.025,39.999,78.025z"
+   fill="url(#HIGHLIGHT_4_)"
+   opacity="0.25" />
+</g>
+<g
+   id="PLACE_YOUR_GLYPH_HERE">
+</g>
+<g
+   id="DO_NOT_EDIT_-_FOCAL_ZONE_GUIDES">
+</g>
+<text
+   xml:space="preserve"
+   style="font-size:66.0374527px;font-style:normal;font-weight:normal;line-height:80.00000119%;letter-spacing:0px;word-spacing:0px;opacity:0.09584369;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+   x="39.553448"
+   y="36.675114"
+   id="text3094"
+   sodipodi:linespacing="80.000001%"><tspan
+     sodipodi:role="line"
+     id="tspan3096"
+     x="39.553448"
+     y="36.675114"
+     style="font-size:28.40738869px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;fill:#e6e6e6;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold Oblique">IP</tspan><tspan
+     sodipodi:role="line"
+     x="39.553448"
+     y="59.401024"
+     style="font-size:28.40738869px;font-style:oblique;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;fill:#e6e6e6;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold Oblique"
+     id="tspan4013">addr</tspan></text>
+</svg>

@@ -1,0 +1,15 @@
+Source: ipaddr-widget
+Section: user/desktop
+Priority: extra
+Maintainer: Thomas Perl <m@thp.io>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: http://thp.io/2011/ipaddr-widget/
+
+Package: ipaddr-widget
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, python, python-imaging
+Description: IP Address Widget Concept
+ This widget will show the current IP address when clicked.
+ To my knowledge, this is the first Harmattan "widget" ;)
+

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IP Address
+Exec=python /usr/bin/ipaddr-widget.py
+Icon=/home/user/.config/widgets/ipaddr.png
+Terminal=false
+Type=Application
+Categories=System;
+
